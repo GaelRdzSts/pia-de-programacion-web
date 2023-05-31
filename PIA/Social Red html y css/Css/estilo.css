@@ -4,5 +4,20 @@ body{
   margin: 0 auto;
 }
 header{
-  height: 16
+  height: 16vh;
+  width:100%;
+  max-width:900px;
+  margin: 20px 0px;
 }
+header #logo{
+  height: 16vh;
+  float: left;
+}
+header #logo img{
+  height:16vh;
+}
+header .menu{
+  height: 16vh;
+  float: right;
+}
+
